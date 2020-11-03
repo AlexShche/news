@@ -1,0 +1,54 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.main{
+    margin-top: 40px;
+}
+
+.loaderTheme{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ant-card-body .postImg{
+    margin-bottom: 30px;
+    width: 50%;
+}
+
+.contentPost .postImg{
+    margin: 30px 0;
+    width: 50%;
+}
+
+.ant-card-head-title{
+    padding-right: 10px;
+}
+
+.main .ant-col{
+    margin-bottom: 30px;
+}
+
+.contentPost{
+    margin-top: 50px;
+}
+
+.filters{
+    margin-bottom: 40px;
+}
+
+.filters h3{
+    margin-top: 20px;
+}
+
+.ant-pagination{
+    margin-bottom: 20px;
+    text-align: center;
+}
